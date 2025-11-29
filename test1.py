@@ -1,1 +1,1 @@
-print("Learning MLOPS")
+print("Learning MLOPS/LLMOPS")
